@@ -1,5 +1,4 @@
 Miriam Dombrowski
-
 Sociology & Demography PhD
 4th Year 
 UC Berkeley
@@ -14,3 +13,4 @@ production, and cathexis, whereby authority is claimed on the basis of having a 
 of body. Masculinity is a set of relations within this terrain, which come with a constellation 
 of historically-contingent practices. Masculinity is inherently prone to “crisis.” When relations 
 are challenged, discursive work is done to “re-make” it.
+
